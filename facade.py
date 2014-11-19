@@ -20,8 +20,13 @@ class Computer:
 
 # The running part
 # Don't modify the following code!
-com=Computer()
-com.startComputer() # When a computer starts, it needs to check the CPU, load the Memory, and then mount the harddisk.
-com.printCPUInfo()
-com.printMemInfo()
-com.printHDInfo()
+def main():
+    com=Computer()
+    com.startComputer() # When a computer starts, it needs to check the CPU, load the Memory, and then mount the harddisk.
+    com.printCPUInfo()
+    com.printMemInfo()
+    com.printHDInfo()
+    
+if __name__=="__main__":
+    main()
+    
