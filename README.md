@@ -5,7 +5,9 @@ You are required to **fork** this repository to your own Github account. Then yo
 
 Go through the following links to know more about Facade pattern and Adapter pattern.
 
-[Facade Pattern](http://sourcemaking.com/design_patterns/facade)
-[Adapter Pattern](http://sourcemaking.com/design_patterns/adapter)
-[Comparison of Facade and Adapter](http://www.netobjectives.com/blogs/adapter-and-facade)
+* [Facade Pattern](http://sourcemaking.com/design_patterns/facade)  
+* [Adapter Pattern](http://sourcemaking.com/design_patterns/adapter)  
+* [Comparison of Facade and Adapter](http://www.netobjectives.com/blogs/adapter-and-facade)  
+
+
 
