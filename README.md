@@ -9,4 +9,5 @@ Go through the following links to know more about Facade pattern and Adapter pat
 * [Comparison of Facade and Adapter](http://www.netobjectives.com/blogs/adapter-and-facade)  
 
 
-
+### Submit
+After you implement all the required code, **commit** your modification and **push** it to **your** Github repository. Then submit the **link** to your Github repository to Moodle.
