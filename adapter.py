@@ -15,6 +15,10 @@ class Adapter:
 
 
 # The running part. You should not modify this part.
-newcomputer=Adapter()
-newcomputer.start()
-newcomputer.getComputerInfo()
+def main():
+    newcomputer=Adapter()
+    newcomputer.start()
+    newcomputer.getComputerInfo()
+
+if __name__=="__main__":
+    main()
